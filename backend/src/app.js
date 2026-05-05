@@ -12,7 +12,7 @@ const app = express();
 // Allowed origins (local + production)
 const allowedOrigins = [
   "http://localhost:5173",
-  process.env.FRONTEND_URL // e.g. https://your-project.vercel.app
+  process.env.FRONTEND_URL
 ];
 
 // CORS configuration (single clean version)
