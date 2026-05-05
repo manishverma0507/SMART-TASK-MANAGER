@@ -143,10 +143,6 @@ These credentials work for both login and signup. The demo user has `admin` role
 - Frontend: `Add your Railway frontend URL here`
 - Backend: `Add your Railway backend URL here`
 
-## Demo Video
-
-- `Add your demo video link here`
-
 ## Notes
 
 - The provided MongoDB password contained `@`, so it was URL-encoded before use.
