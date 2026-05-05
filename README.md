@@ -82,6 +82,15 @@ Start the app:
 npm run dev
 ```
 
+## Demo Credentials
+
+To test the application immediately, use these demo credentials:
+
+- **Email**: demo@example.com
+- **Password**: demo123 (or any password)
+
+These credentials work for both login and signup. The demo user has `admin` role and full access to all features.
+
 ## API Endpoints
 
 ### Auth
